@@ -5,7 +5,6 @@
   - very basic UI components
   - Boiler plate
   - straight forward tedious task
-- LLMs are not good at:
 - LLMs have rudimentary planning
 - LLMs can generate resources faster then a human can. whether those resources are quality is widely variable.
 - LLMs are currently limited in their ability to truly understand systems.
