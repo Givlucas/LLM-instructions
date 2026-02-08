@@ -15,6 +15,7 @@
 - LLMs are currently limited in their ability to architect and design.
 - LLMs are better at information retrievel / interpretation then information generation
 - LLMs make better teachers then they do developers.
+- Use LLMs for the tedious stuff
 - Currently LLM can/will make catistrophic mistakes given the opportunity
 - Things that help humans write better code help LLMs write better code.
 - if you can use LLMs to get ahead in a positive way then you should
