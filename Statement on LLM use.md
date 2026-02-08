@@ -20,7 +20,7 @@
 - Things that help humans write better code help LLMs write better code.
 - if you can use LLMs to get ahead in a positive way then you should
 - LLM outputs must be critically and fully reviewed by a human
-- You must understand the domain and tools you are working with BEFORE using the LLM
+- You must understand the domain, languages and tools you are working with BEFORE using the LLM
 - Time is a valuable resource. Leveraging LLMs, if done **properly** can make the most out of your time.
 
 LLMs are tools. Tools used incorrectly can cause great harm.
