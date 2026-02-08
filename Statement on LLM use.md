@@ -1,5 +1,4 @@
-- LLMs can preform like a very JR level developer would reliably
-  - basic crud apps
+- LLMs can preform like a very JR level developer would reliably 
   - simple scripts and services
   - simple configuration task
   - small simple functions and classes
@@ -37,4 +36,6 @@ LLMs compress all of the information that it is fed in its training data, then c
 
 You must be able to understand the output of the LLM which means you must be able to understand the systems in which it is working.
 So you must understand the libraries, the languages, the data etc. **you are the director of the orchestra you must know the instruments as good as the players.**
-You must be able to evaluate and understand the output to use LLMs properly.** **Since it's still imperfect, you need to treat it how you'd treat a person you don't trust.** 
+You must be able to evaluate and understand their output to use LLMs properly.** **Since it's still imperfect, you need to treat it how you'd treat a person you don't trust.** 
+
+used incorrectly and without care. LLMs can cause immense amount of damage and technical debt.
