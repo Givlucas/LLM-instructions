@@ -6,7 +6,7 @@
   - very basic UI components
   - Boiler plate
 - LLMs have rudimentary planning
-- LLMs can generate resources faster then a human can
+- LLMs can generate resources faster then a human can. whether those resources are quality is widely variable.
 - LLMs are currently limited in their ability to truly understand systems.
 - LLMs are currently limited in their ability of intent, creativity, and instinct.
 - LLMs are yes men
