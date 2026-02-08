@@ -1,8 +1,9 @@
-#action #action #priority #AI
+#action #priority #AI
 #Discovery
 
 # notes
-This should live in the other repo not here.
+- Multi agent, sub agents? one per phase...? 
+
 ## sonnet 4.5 action cli - post mortem Attempt 2
 How it failed. Application worked and code appeared to be written well. However it did not meet specifications\. I did a tree again instead of the proper behavior.
 
@@ -19,7 +20,7 @@ Also of note. it seemed to expand on action ALOT. It would write alot of code in
 - researcher agent
 - Instead of action orchestrator main agent should be action orchestrator?
 - Action orchestra-tor still asked me too many questions. Probably need to give it more guidance. More structured workflow. Was not autonomous enough
-- wouldn't use agents unless specifically asked
+- wouldn't use agents unless specifically asked ( this was because this wasn't possible when you tried it here )
 -  #harness based systems. Ledger stuff giving it a memory. I think the "notes" section is incredibly important here. But maybe a larger scale ledger would also be useful? This is called "Domain memory"
 - see how far you can go only using opus 4.5
 - should action have a fomatter header for metadata.
@@ -29,7 +30,7 @@ Also of note. it seemed to expand on action ALOT. It would write alot of code in
 - no crashes on the first run after the AI said it was finished meaning test based development worked.
 
 # statement of action
-Using create strategy for building with LLMs to explore and learn about the systems. Use this system to build the action light CLI tool to evaluate its effectiveness.
+create LLM agent instruction set for generic development. Use this system to build the action light CLI tool to evaluate its effectiveness.
 
 # Statement of inputs
 - 
@@ -39,4 +40,4 @@ Using create strategy for building with LLMs to explore and learn about the syst
 # Statement of Design
 ## Output
 ### design
-using Claude code to create CLI helper tools for working with the action lite framework ... 
+

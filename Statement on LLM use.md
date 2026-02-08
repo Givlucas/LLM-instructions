@@ -14,6 +14,7 @@
 - LLMs do not write perfect code or perfect design. 
 - LLMs are currently limited in their ability to architect and design.
 - LLMs are better at information retrievel / interpretation then information generation
+- LLMs make better teachers then they do developers.
 - Currently LLM can/will make catistrophic mistakes given the opportunity
 - Things that help humans write better code help LLMs write better code.
 - if you can use LLMs to get ahead in a positive way then you should
@@ -30,6 +31,8 @@ The following are still neccessary:
 - Well structured code
 - Design
 - Humans
+
+LLMs compress all of the information that it is fed in its training data, then compounds and changes it to some degree to create outputs. However, they can only do this so well.
 
 You must be able to understand the output of the LLM which means you must be able to understand the systems in which it is working.
 So you must understand the libraries, the languages, the data etc. **you are the director of the orchestra you must know the instruments as good as the players.**
