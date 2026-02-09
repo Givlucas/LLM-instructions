@@ -2,7 +2,9 @@
 #Discovery
 
 # notes
-- Multi agent, sub agents? one per phase...? 
+- Multi agent, sub agents? one per phase...?
+- only write code, no english. Agents really seam to want to do this anyway.
+- Defined clear workflow. Don't let the agent guess on what to do next
 
 ## sonnet 4.5 action cli - post mortem Attempt 2
 How it failed. Application worked and code appeared to be written well. However it did not meet specifications\. I did a tree again instead of the proper behavior.
