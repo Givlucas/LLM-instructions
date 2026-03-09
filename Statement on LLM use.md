@@ -1,4 +1,4 @@
-LLMs can preform like a very JR level developer would reliably
+- LLMs can preform like a very JR level developer would reliably:
     - simple scripts and services
     - simple configuration task
     - small simple functions and classes
