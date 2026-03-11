@@ -14,7 +14,7 @@
 - LLMs do not write perfect code or perfect design.
 - LLMs are currently limited in their ability to architect and design.
 - LLMs are better at information retrievel / interpretation then information generation
-- LLMs make better teachers then they do developers.
+- LLMs make better teachers then they do developers. good for the basics, and introductory information but generally nothing more.
 - Use LLMs for the tedious stuff
 - Currently LLM can/will make catastrophic mistakes given the opportunity
 - Things that help humans write better code help LLMs write better code.
