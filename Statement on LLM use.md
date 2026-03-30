@@ -1,7 +1,4 @@
-#note #AI #LLM
-# Assumptions
-1. AI Will only continue to progress over the next 10-15 years
-2. ***AI will eventually reach human eq.***
+
 # Statements
 - LLMs can preform like a very JR level developer would reliably
     - simple scripts and services
