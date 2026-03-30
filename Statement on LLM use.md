@@ -1,4 +1,9 @@
-- LLMs can preform like a very JR level developer would reliably:
+#note #AI #LLM
+# Assumptions
+1. AI Will only continue to progress over the next 10-15 years
+2. ***AI will eventually reach human eq.***
+# Statements
+- LLMs can preform like a very JR level developer would reliably
     - simple scripts and services
     - simple configuration task
     - small simple functions and classes
@@ -6,7 +11,8 @@
     - Boiler plate
     - straight forward tedious task
 - LLMs have very rudimentary planning
-- LLMs can generate resources faster then a human can. whether those resources are quality is widely variable.
+- LLMs have very rudimentary intelligence
+- LLMs can generate resources faster then a human can. whether those resources are quality / helpful or detrimental is widely variable. (Upper bounds for quality is lower then human made even on small and or tedious tasks) 
 - LLMs are currently limited in their ability to truly understand systems.
 - LLMs are currently limited in their ability of intent, creativity, and instinct.
 - LLMs are yes men
@@ -14,9 +20,10 @@
 - LLMs do not write perfect code or perfect design.
 - LLMs are currently limited in their ability to architect and design.
 - LLMs are better at information retrievel / interpretation then information generation
-- LLMs make better teachers then they do developers. good for the basics, and introductory information but generally nothing more.
+- LLMs have hidden internal bias and generally only present one view or solution.
+- LLMs make better teachers then they do developers.
 - Use LLMs for the tedious stuff
-- Currently LLM can/will make catastrophic mistakes given the opportunity
+- Currently LLM can/will produce catastrophic mistakes given the opportunity
 - Things that help humans write better code help LLMs write better code.
 - if you can use LLMs to get ahead in a positive way then you should
 - LLM outputs must be critically and fully reviewed by a human
@@ -27,6 +34,13 @@
 - LLMs mostly regurgitate their training data with some composition based on input. This further affects their code quality as a majority of code is low quality.
 - LLMs arent good at doing your job, it's good at fooling you into thinking it can do your job.
 - Humans should still be writing a significant amount of code.  80% human 20% LLM as a good rule.
+- LLMs will ignore or misinterpret instructions even with "good" prompts.
+- LLMs will ignore or misinterpret instructions even with "good" prompts.
+- Using LLMs is basically automating copy any pasting from stack overflow
+- think of LLMs like isolating the language center of the brain, removing it and giving it a keyboard and asking it to program.
+- LLMs give statistically common answers, not the best or correct answers.
+- most common answers / results are poor quality. C students are common.
+- Humans can have taste, insight, and consistency that LLMs cannot have.
 
 LLMs are tools. Tools used incorrectly can cause great harm.
 
