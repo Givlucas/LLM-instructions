@@ -38,6 +38,7 @@
 - LLMs give statistically common answers, not the best or correct answers.
 - most common answers / results are poor quality. C students are common.
 - Humans can have taste, insight, and consistency that LLMs cannot have.
+- asking a LLM to design / program is like asking stable diffusion to create the wiring diagram for a house.
 
 LLMs are tools. Tools used incorrectly can cause great harm.
 
