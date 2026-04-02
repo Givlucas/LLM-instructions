@@ -1,4 +1,3 @@
-
 # Statements
 - LLMs can preform like a **very** JR level developer would reliably
     - simple scripts and services
@@ -39,6 +38,7 @@
 - most common answers / results are poor quality. C students are common.
 - Humans can have taste, insight, and consistency that LLMs cannot have.
 - asking a LLM to design / program is like asking stable diffusion to create the wiring diagram for a house.
+- LLMs are currently heavily subsidized by companies to drive adoption. Either to create reliance before efficiency increases or to do a rug pull later.
 
 LLMs are tools. Tools used incorrectly can cause great harm.
 
@@ -55,3 +55,5 @@ LLMs compress all of the information that it is fed in its training data, then c
 You must be able to understand the output of the LLM which means you must be able to understand the systems in which it is working. So you must understand the libraries, the languages, the data etc. **you are the director of the orchestra you must know the instruments as good as the players.** You must be able to evaluate and understand their output to use LLMs properly.** **Since it's still imperfect, you need to treat it how you'd treat a person you don't trust.**
 
 used incorrectly and without care. LLMs can cause immense amount of damage and technical debt.
+
+I want to be clear I am not against all applications of this technology 
