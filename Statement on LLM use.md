@@ -56,4 +56,4 @@ You must be able to understand the output of the LLM which means you must be abl
 
 used incorrectly and without care. LLMs can cause immense amount of damage and technical debt.
 
-I want to be clear I am not against all applications of this technology 
+I want to be clear I am not against all applications of this technology or AI in general. I am specifically skeptical of LLMs as a thinking agent. 
