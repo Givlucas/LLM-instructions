@@ -1,11 +1,12 @@
 # Statements
-- LLMs can preform like a **very** JR level developer would reliably
+- LLMs can preform like a very JR level developer would reliably
     - simple scripts and services
     - simple configuration task
     - small simple functions and classes
     - very basic UI components
     - Boiler plate
     - straight forward tedious task
+- You can prompt yourself a demo, you cant prompt your way into a product.
 - LLMs have very rudimentary planning
 - LLMs have very rudimentary intelligence
 - LLMs can generate resources faster then a human can. whether those resources are quality / helpful or detrimental is widely variable. (Upper bounds for quality is lower then human made even on small and or tedious tasks) 
@@ -31,7 +32,6 @@
 - LLMs arent good at doing your job, it's good at fooling you into thinking it can do your job.
 - Humans should still be writing a significant amount of code.  80% human 20% LLM as a good rule.
 - LLMs will ignore or misinterpret instructions even with "good" prompts.
-- LLMs will ignore or misinterpret instructions even with "good" prompts.
 - Using LLMs is basically automating copy any pasting from stack overflow
 - think of LLMs like isolating the language center of the brain, removing it and giving it a keyboard and asking it to program.
 - LLMs give statistically common answers, not the best or correct answers.
@@ -39,6 +39,7 @@
 - Humans can have taste, insight, and consistency that LLMs cannot have.
 - asking a LLM to design / program is like asking stable diffusion to create the wiring diagram for a house.
 - LLMs are currently heavily subsidized by companies to drive adoption. Either to create reliance before efficiency increases or to do a rug pull later.
+- Vibe-coding is a anti-pattern. Code still matters just as much as before if not more. Guard rails and quality gates are a must.
 
 LLMs are tools. Tools used incorrectly can cause great harm.
 
@@ -56,4 +57,4 @@ You must be able to understand the output of the LLM which means you must be abl
 
 used incorrectly and without care. LLMs can cause immense amount of damage and technical debt.
 
-I want to be clear I am not against all applications of this technology or AI in general. I am specifically skeptical of LLMs as a thinking agent. 
+I want to be clear I am not against all applications of this technology or AI in general. I am specifically skeptical of LLMs as a thinking agent.
