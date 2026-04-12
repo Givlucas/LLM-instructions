@@ -7,7 +7,7 @@
     - Boiler plate
     - straight forward tedious task
 - You can prompt yourself a demo, you cant prompt your way into a product.
-- knowing fundamentals are a more important trait then knowing how to use LLMs
+- knowing fundamentals is a more important trait then knowing how to use LLMs
 - LLMs have very rudimentary planning
 - LLMs have very rudimentary intelligence
 - LLMs can generate resources faster then a human can. whether those resources are quality / helpful or detrimental is widely variable. (Upper bounds for quality is lower then human made even on small and or tedious tasks) 
